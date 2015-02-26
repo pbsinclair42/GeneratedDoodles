@@ -1,4 +1,8 @@
 # GeneratedDoodles
 A wee project I made which randomly generates mathematical artwork
 
-[Main example](https://raw.githubusercontent.com/pbsinclair42/GeneratedDoodles/master/Examples/Density50%20eg1.PNG)
+[!alt tag](https://raw.githubusercontent.com/pbsinclair42/GeneratedDoodles/master/Examples/Density50%20eg1.PNG)
+
+The artwork is generated based on two parameters: size and density.  The example above uses density 50, the recommended setting, but other pretty artwork can be generated at alternative settings.  For example, the artwork below uses density 0 and is, in a slightly different way, also very nice.  
+
+[!alt tag](https://raw.githubusercontent.com/pbsinclair42/GeneratedDoodles/master/Examples/Density0%20eg3.PNG)
